@@ -1,0 +1,5 @@
+ipykernel
+paramiko
+scapy
+pytest
+requests
